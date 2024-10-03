@@ -1,0 +1,12 @@
+C:\Users\chris\RiderProjects\MimaSim\src\BrowserInterop\bin\Debug\net8.0-browser\BrowserInterop.deps.json
+C:\Users\chris\RiderProjects\MimaSim\src\BrowserInterop\bin\Debug\net8.0-browser\BrowserInterop.dll
+C:\Users\chris\RiderProjects\MimaSim\src\BrowserInterop\bin\Debug\net8.0-browser\BrowserInterop.pdb
+C:\Users\chris\RiderProjects\MimaSim\src\BrowserInterop\obj\Debug\net8.0-browser\BrowserInterop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\RiderProjects\MimaSim\src\BrowserInterop\obj\Debug\net8.0-browser\BrowserInterop.AssemblyInfoInputs.cache
+C:\Users\chris\RiderProjects\MimaSim\src\BrowserInterop\obj\Debug\net8.0-browser\BrowserInterop.AssemblyInfo.cs
+C:\Users\chris\RiderProjects\MimaSim\src\BrowserInterop\obj\Debug\net8.0-browser\BrowserInterop.csproj.CoreCompileInputs.cache
+C:\Users\chris\RiderProjects\MimaSim\src\BrowserInterop\obj\Debug\net8.0-browser\BrowserInterop.sourcelink.json
+C:\Users\chris\RiderProjects\MimaSim\src\BrowserInterop\obj\Debug\net8.0-browser\BrowserInterop.dll
+C:\Users\chris\RiderProjects\MimaSim\src\BrowserInterop\obj\Debug\net8.0-browser\refint\BrowserInterop.dll
+C:\Users\chris\RiderProjects\MimaSim\src\BrowserInterop\obj\Debug\net8.0-browser\BrowserInterop.pdb
+C:\Users\chris\RiderProjects\MimaSim\src\BrowserInterop\obj\Debug\net8.0-browser\ref\BrowserInterop.dll
